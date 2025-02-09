@@ -32,7 +32,7 @@ Before running the application, make sure you have the following:
    ```
    
 3. **Set Up Google API Key:**
-- Sign up for Google Cloud and enable the Generative AI API.
+- Sign up for Google AI Studio `https://aistudio.google.com/app/apikey` and generate the API key.
 - Set your Google Cloud API Key by adding it to a `.env` file:
   
   ```
