@@ -15,6 +15,8 @@ Before running the code, install the necessary dependencies using:
 !pip install -q -U bitsandbytes transformers peft accelerate datasets scipy einops evaluate trl rouge_score
 ```
 
+The code might take longer time to run and requires GPU. You can use Google Colab for the .ipynb file.
+
 ## Workflow
 ### 1. Authentication
 To access Hugging Face models, login is required:
